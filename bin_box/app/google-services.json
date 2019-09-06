@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867164769075",
+    "firebase_url": "https://binboxx-8ceb1.firebaseio.com",
+    "project_id": "binboxx-8ceb1",
+    "storage_bucket": "binboxx-8ceb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867164769075:android:c58301866c4a472b518c46",
+        "android_client_info": {
+          "package_name": "pratik.application1.com.bin_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867164769075-i34md9bpseandmsum0i63u6ofe8ijvpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pratik.application1.com.bin_box",
+            "certificate_hash": "6defead9543363c5fd867ec5fcd3b1611da81265"
+          }
+        },
+        {
+          "client_id": "867164769075-iqniaern9772dh6fdhh7hkshucqbm3jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpZTsubqkKa67hZuA5Xucxzv_j28nw1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867164769075-iqniaern9772dh6fdhh7hkshucqbm3jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
