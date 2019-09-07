@@ -22,8 +22,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginTop="72dp"
-        android:textColor="black"
+        android:textColor="@android:color/black"
         android:textSize="18dp"
+
+
 
 
         android:layout_marginLeft="20dp"
@@ -72,25 +74,27 @@
     </FrameLayout>
 
     <EditText
-        android:layout_width="match_parent"
+        android:layout_width="230dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_marginLeft="110dp"
         android:layout_marginTop="127dp"
         android:textColor="#A2A2A2"
         android:textSize="16dp"
+        android:id="@+id/PhNumber"
 
         android:text="Enter your phone number" />
 
     <EditText
-        android:layout_width="wrap_content"
+        android:layout_width="230dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="110dp"
         android:layout_alignParentTop="true"
         android:textColor="#A2A2A2"
         android:layout_marginTop="190dp"
         android:textSize="16dp"
-        android:text="Enter your full name" />
+        android:text="Enter your full name"
+        android:id="@+id/Name"/>
 
     <ImageButton
         android:layout_width="wrap_content"
@@ -99,6 +103,7 @@
         android:background="@null"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="260dp"
+        android:id="@+id/Conti"
 
         />
 
